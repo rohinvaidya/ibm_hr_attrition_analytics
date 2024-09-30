@@ -1,0 +1,6 @@
+{
+    "model_type1" : "random_forest",
+    "model_type2" : "logisitic_regression",
+    "model_type" : "decision_tree",
+    "model_type3" : "random" 
+}
